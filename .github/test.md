@@ -16,7 +16,9 @@ https://json.doube.eu.org/t3.php
 
 https://www.xn--sss604efuw.com/jm/
 
-分类url .cateId=分类 .class=类型 .area=地区 .lang=语言 .year=年份 .by=排序 .catePg=类别?
+分类url .cateId=分类 .class=类型 .area=地区
+.lang=语言 .year=年份 .by=排序 .catePg=页码
+第二页链接[firstPage=第一页的链接]
 
 https://github.com/hjdhnx/drpy-node
 
