@@ -1015,9 +1015,9 @@ UK,https://ntd02.akamaized.net/NTD-UK/index.m3u8$LR•IPV4•51『线路48』
 UK,https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8$LR•IPV4•51『线路49』
 UK,https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8$LR•IPV4•51『线路50』
 UK,https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8$LR•IPV4•51『线路51』
-US,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8$LR•IPV4•146『线路1』
-US,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8$LR•IPV4•146『线路2』
-US,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8$LR•IPV4•146『线路3』
+US,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8$LR•IPV4•146『线路1』
+US,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8$LR•IPV4•146『线路2』
+US,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8$LR•IPV4•146『线路3』
 US,http://php.jdshipin.com/TVOD/iptv.php?id=j2$LR•IPV4•146『线路4』
 US,http://php.jdshipin.com/PLTV/iptv.php?id=j2$LR•IPV4•146『线路5』
 US,http://cdn.132.us.kg/live/tvbp/stream.m3u8$LR•IPV4•146『线路6』
@@ -1284,14 +1284,14 @@ J_SPORTS_4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccod
 DAZN1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2562&tk=e640d0a1bf70$LR•IPV4
 DAZN2,https://stream1.freetv.fun/dazn-sport-2-1.ctv$LR•IPV4•2『线路1』
 DAZN2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5145&tk=e640d0a1bf70$LR•IPV4•2『线路2』
-skysports,https://stream1.freetv.fun/skysports-3.ctv$LR•IPV4•8『线路1』
-skysports,https://stream1.freetv.fun/skysports-2.ctv$LR•IPV4•8『线路2』
-skysports,https://stream1.freetv.fun/skysports-16.ctv$LR•IPV4•8『线路3』
-skysports,https://stream1.freetv.fun/skysports-14.ctv$LR•IPV4•8『线路4』
-skysports,https://stream1.freetv.fun/skysports-12.ctv$LR•IPV4•8『线路5』
-skysports,https://stream1.freetv.fun/skysports-15.ctv$LR•IPV4•8『线路6』
-skysports,https://stream1.freetv.fun/skysports-7.ctv$LR•IPV4•8『线路7』
-skysports,https://stream1.freetv.fun/skysports-17.ctv$LR•IPV4•8『线路8』
+skysports,https://stream1.freetv.fun/skysports-16.ctv$LR•IPV4•8『线路1』
+skysports,https://stream1.freetv.fun/skysports-14.ctv$LR•IPV4•8『线路2』
+skysports,https://stream1.freetv.fun/skysports-12.ctv$LR•IPV4•8『线路3』
+skysports,https://stream1.freetv.fun/skysports-15.ctv$LR•IPV4•8『线路4』
+skysports,https://stream1.freetv.fun/skysports-7.ctv$LR•IPV4•8『线路5』
+skysports,https://stream1.freetv.fun/skysports-3.ctv$LR•IPV4•8『线路6』
+skysports,https://stream1.freetv.fun/skysports-17.ctv$LR•IPV4•8『线路7』
+skysports,https://stream1.freetv.fun/skysports-2.ctv$LR•IPV4•8『线路8』
 
 zonghe,#genre#
 纪晓岚,http://fmbox.cc/huya.php?id=11342396$LR•IPV4
@@ -1659,13 +1659,13 @@ FOX Sports,http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/loc
 FOX Sports,https://tvpass.org/live/FoxSports2/hd$LR•IPV4•9『线路7』
 FOX Sports,http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8$LR•IPV4•9『线路8』
 FOX Sports,https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8$LR•IPV4•9『线路9』
-NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8$LR•IPV4•11『线路1』
-NBA,p3p://167.114.175.6:55331/65a587500007bc039fca3566638e69af$LR•IPV4•11『线路2』
-NBA,https://stream1.freetv.fun/nba-tv-5.m3u8$LR•IPV4•11『线路3』
-NBA,https://t.freetv.fun/live/nba-tv-2.m3u8$LR•IPV4•11『线路4』
-NBA,https://stream1.freetv.fun/nba-tv-7.m3u8$LR•IPV4•11『线路5』
-NBA,https://t.freetv.fun/live/nba-tv-1.m3u8$LR•IPV4•11『线路6』
-NBA,https://t.freetv.fun/live/nba-tv.m3u8$LR•IPV4•11『线路7』
+NBA,https://stream1.freetv.fun/nba-tv-5.m3u8$LR•IPV4•11『线路1』
+NBA,https://t.freetv.fun/live/nba-tv-2.m3u8$LR•IPV4•11『线路2』
+NBA,https://stream1.freetv.fun/nba-tv-7.m3u8$LR•IPV4•11『线路3』
+NBA,https://t.freetv.fun/live/nba-tv-1.m3u8$LR•IPV4•11『线路4』
+NBA,https://t.freetv.fun/live/nba-tv.m3u8$LR•IPV4•11『线路5』
+NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8$LR•IPV4•11『线路6』
+NBA,p3p://167.114.175.6:55331/65a587500007bc039fca3566638e69af$LR•IPV4•11『线路7』
 NBA,https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8$LR•IPV4•11『线路8』
 NBA,https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8$LR•IPV4•11『线路9』
 NBA,https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•11『线路10』
