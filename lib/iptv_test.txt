@@ -1,7 +1,8 @@
 
 央视频道,#genre#
-CCTV-4K,http://107.150.60.122/live/cctv4k.m3u8$LR•IPV4•2『线路1』
-CCTV-4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$LR•IPV4•2『线路2』
+CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1775998800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-707366440d6d2ac24d85c385169fa397&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•3『线路1』
+CCTV-4K,http://107.150.60.122/live/cctv4k.m3u8$LR•IPV4•3『线路2』
+CCTV-4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$LR•IPV4•3『线路3』
 
 浙江频道,#genre#
 象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8$LR•IPV4•3『线路1』
@@ -1279,14 +1280,14 @@ J_SPORTS_4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccod
 DAZN1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2562&tk=e640d0a1bf70$LR•IPV4
 DAZN2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5145&tk=e640d0a1bf70$LR•IPV4•2『线路1』
 DAZN2,https://stream1.freetv.fun/dazn-sport-2-1.ctv$LR•IPV4•2『线路2』
-skysports,https://stream1.freetv.fun/skysports-12.ctv$LR•IPV4•8『线路1』
-skysports,https://stream1.freetv.fun/skysports-7.ctv$LR•IPV4•8『线路2』
-skysports,https://stream1.freetv.fun/skysports-16.ctv$LR•IPV4•8『线路3』
-skysports,https://stream1.freetv.fun/skysports-15.ctv$LR•IPV4•8『线路4』
-skysports,https://stream1.freetv.fun/skysports-14.ctv$LR•IPV4•8『线路5』
-skysports,https://stream1.freetv.fun/skysports-3.ctv$LR•IPV4•8『线路6』
-skysports,https://stream1.freetv.fun/skysports-17.ctv$LR•IPV4•8『线路7』
-skysports,https://stream1.freetv.fun/skysports-2.ctv$LR•IPV4•8『线路8』
+skysports,https://stream1.freetv.fun/skysports-3.ctv$LR•IPV4•8『线路1』
+skysports,https://stream1.freetv.fun/skysports-2.ctv$LR•IPV4•8『线路2』
+skysports,https://stream1.freetv.fun/skysports-12.ctv$LR•IPV4•8『线路3』
+skysports,https://stream1.freetv.fun/skysports-7.ctv$LR•IPV4•8『线路4』
+skysports,https://stream1.freetv.fun/skysports-16.ctv$LR•IPV4•8『线路5』
+skysports,https://stream1.freetv.fun/skysports-15.ctv$LR•IPV4•8『线路6』
+skysports,https://stream1.freetv.fun/skysports-14.ctv$LR•IPV4•8『线路7』
+skysports,https://stream1.freetv.fun/skysports-17.ctv$LR•IPV4•8『线路8』
 
 zonghe,#genre#
 纪晓岚,http://fmbox.cc/huya.php?id=11342396$LR•IPV4
@@ -1651,12 +1652,12 @@ FOX Sports,http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/loc
 FOX Sports,https://tvpass.org/live/FoxSports2/hd$LR•IPV4•9『线路7』
 FOX Sports,http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8$LR•IPV4•9『线路8』
 FOX Sports,https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8$LR•IPV4•9『线路9』
-NBA,https://t.freetv.fun/live/nba-tv-1.m3u8$LR•IPV4•10『线路1』
-NBA,https://stream1.freetv.fun/nba-tv-7.m3u8$LR•IPV4•10『线路2』
-NBA,https://t.freetv.fun/live/nba-tv.m3u8$LR•IPV4•10『线路3』
-NBA,https://stream1.freetv.fun/nba-tv-5.m3u8$LR•IPV4•10『线路4』
-NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8$LR•IPV4•10『线路5』
-NBA,p3p://167.114.175.6:55331/65a587500007bc039fca3566638e69af$LR•IPV4•10『线路6』
+NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8$LR•IPV4•10『线路1』
+NBA,p3p://167.114.175.6:55331/65a587500007bc039fca3566638e69af$LR•IPV4•10『线路2』
+NBA,https://t.freetv.fun/live/nba-tv-1.m3u8$LR•IPV4•10『线路3』
+NBA,https://stream1.freetv.fun/nba-tv-7.m3u8$LR•IPV4•10『线路4』
+NBA,https://t.freetv.fun/live/nba-tv.m3u8$LR•IPV4•10『线路5』
+NBA,https://stream1.freetv.fun/nba-tv-5.m3u8$LR•IPV4•10『线路6』
 NBA,https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8$LR•IPV4•10『线路7』
 NBA,https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8$LR•IPV4•10『线路8』
 NBA,https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•10『线路9』
@@ -2011,7 +2012,7 @@ XXXXXXXXX粤,http://lxajh.top/tv/douyu.php?id=8912325$LR•IPV4
 航拍中国第一季,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8$LR•IPV4
 航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8$LR•IPV4
 地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8$LR•IPV4
-纪录,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ad26bf27e63cc27f6ca8d85bfb84ff4c$LR•IPV4•118『线路1』
+纪录,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5203bf94cd5da3f0717325376e2d2d9f$LR•IPV4•118『线路1』
 纪录,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?$LR•IPV6•118『线路2』
 纪录,http://113.25.252.226:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•118『线路3』
 纪录,http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1752629214236$LR•IPV4•118『线路4』
@@ -2525,7 +2526,7 @@ Loupe 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4726&tk=f6cc1e0a0e1a$LR•IP
 🌐央视频道,#genre#
 CCTV兵器,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub$LR•IPV4•2『线路1』
 CCTV兵器,http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub$LR•IPV4•2『线路2』
-CCTV,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1775995200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-799968fdd33491297fdd691c967ad049&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•151『线路1』
+CCTV,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1775998800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-ce5001e920ed3879ff17053a2cf0dd4d&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•151『线路1』
 CCTV,http://183.196.25.171:808/hls/77/index.m3u8$LR•IPV4•151『线路2』
 CCTV,http://183.196.25.171:808/hls/11/index.m3u8$LR•IPV4•151『线路3』
 CCTV,http://183.196.25.171:808/hls/93/index.m3u8$LR•IPV4•151『线路4』
