@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1776160800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-7ab52ae00f2b3a4e8526ecc39e2dc281&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•3『线路1』
+http://107.150.60.122/live/cctv4k.m3u8$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
-http://107.150.60.122/live/cctv4k.m3u8$LR•IPV4•3『线路2』
-#EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
-http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$LR•IPV4•3『线路3』
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$LR•IPV4•2『线路2』
 #EXTINF:-1 tvg-name="象山综合" group-title="浙江频道",象山综合
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="象山综合" group-title="浙江频道",象山综合
@@ -694,53 +692,55 @@ http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="荣昌综合" group-title="☘️重庆频道",荣昌综合
 http://183.64.181.25:40023/rongchang01.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6•24『线路1』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6•25『线路1』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://120.198.95.220:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&down=1$LR•IPV4•24『线路2』
+http://120.198.95.220:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&down=1$LR•IPV4•25『线路2』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•24『线路3』
+http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•25『线路3』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://153.0.171.163:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•24『线路4』
+http://153.0.171.163:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•25『线路4』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub$LR•IPV4•24『线路5』
+https://piccpndks.v.kcdnvip.com/audio/tianjin_2/index.m3u8$LR•IPV4•25『线路5』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://23.237.228.134/live8/tianjing.m3u8$LR•IPV4•24『线路6』
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub$LR•IPV4•25『线路6』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8$LR•IPV4•24『线路7』
+http://23.237.228.134/live8/tianjing.m3u8$LR•IPV4•25『线路7』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://api.kkitv.itv888.cn:8080/hls/z2lkdkrb4w/index.m3u8$LR•IPV4•24『线路8』
+http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8$LR•IPV4•25『线路8』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-https://iptv.catvod.com/catvod.php?id=tjws$LR•IPV4•24『线路9』
+http://api.kkitv.itv888.cn:8080/hls/z2lkdkrb4w/index.m3u8$LR•IPV4•25『线路9』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-https://httop.top/ysp-天津卫视$LR•IPV4•24『线路10』
+https://iptv.catvod.com/catvod.php?id=tjws$LR•IPV4•25『线路10』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://iptv.huuc.edu.cn/hls/tjhd.m3u8$LR•IPV4•24『线路11』
+https://httop.top/ysp-天津卫视$LR•IPV4•25『线路11』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://61.184.46.85:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•24『线路12』
+http://iptv.huuc.edu.cn/hls/tjhd.m3u8$LR•IPV4•25『线路12』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://103.45.128.46:2001/jmb/IPTV.php?id=天津卫视$LR•IPV4•24『线路13』
+http://61.184.46.85:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•25『线路13』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://107.150.60.122/live/tjwshd.m3u8$LR•IPV4•24『线路14』
+http://103.45.128.46:2001/jmb/IPTV.php?id=天津卫视$LR•IPV4•25『线路14』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000030788&livemode=1&stbId=yu&mode=1&$LR•IPV4•24『线路15』
+http://107.150.60.122/live/tjwshd.m3u8$LR•IPV4•25『线路15』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006827&livemode=1&stbId=yu&mode=1&$LR•IPV4•24『线路16』
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000030788&livemode=1&stbId=yu&mode=1&$LR•IPV4•25『线路16』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000000831&livemode=1&stbId=yu&mode=1&$LR•IPV4•24『线路17』
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006827&livemode=1&stbId=yu&mode=1&$LR•IPV4•25『线路17』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=yu&mode=1&$LR•IPV4•24『线路18』
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000000831&livemode=1&stbId=yu&mode=1&$LR•IPV4•25『线路18』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=yu&mode=1&$LR•IPV4•24『线路19』
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=yu&mode=1&$LR•IPV4•25『线路19』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6707942579111517572&livemode=1&stbId=yu&mode=1&$LR•IPV4•24『线路20』
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=yu&mode=1&$LR•IPV4•25『线路20』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://111.29.9.38:6610/000000001000/5000000004000006827/index.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3$LR•IPV4•24『线路21』
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6707942579111517572&livemode=1&stbId=yu&mode=1&$LR•IPV4•25『线路21』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://120.76.248.139/live/bfgd/4200000084.m3u8$LR•IPV4•24『线路22』
+http://111.29.9.38:6610/000000001000/5000000004000006827/index.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3$LR•IPV4•25『线路22』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://111.29.9.33:6610/000000001000/1000000001000000831/index.m3u8?channel-id=bestzb&Contentid=1000000001000000831&livemode=1&stbId=3$LR•IPV4•24『线路23』
+http://120.76.248.139/live/bfgd/4200000084.m3u8$LR•IPV4•25『线路23』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8$LR•IPV4•24『线路24』
+http://111.29.9.33:6610/000000001000/1000000001000000831/index.m3u8?channel-id=bestzb&Contentid=1000000001000000831&livemode=1&stbId=3$LR•IPV4•25『线路24』
+#EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
+http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8$LR•IPV4•25『线路25』
 #EXTINF:-1 tvg-name="青州综合" group-title="☘️山东频道",青州综合
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="青州综合" group-title="☘️山东频道",青州综合
@@ -1868,11 +1868,11 @@ https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
 https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8$LR•IPV4•51『线路51』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8$LR•IPV4•145『线路1』
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8$LR•IPV4•145『线路1』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8$LR•IPV4•145『线路2』
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8$LR•IPV4•145『线路2』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8$LR•IPV4•145『线路3』
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8$LR•IPV4•145『线路3』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
 http://php.jdshipin.com/TVOD/iptv.php?id=j2$LR•IPV4•145『线路4』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
@@ -3806,7 +3806,7 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeace
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?$LR•IPV6•117『线路1』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c2b02d24ee1f7fb965889dd2d629a6de$LR•IPV4•117『线路2』
+https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=04dbb9fbb07a1fc658dae407a0ba1d51$LR•IPV4•117『线路2』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
 http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1752629214236$LR•IPV4•117『线路3』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
@@ -4852,7 +4852,7 @@ https://event.pull.hebtv.com/jishi/cp2.m3u8$LR•IPV4•149『线路24』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub$LR•IPV4•149『线路25』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1776160800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-dac8c074a40b8f974b2a416c10b6add8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•149『线路26』
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1776164400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-ea73f5e3616847e58830f32a6bd148d9&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•149『线路26』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
 http://183.196.25.171:808/hls/77/index.m3u8$LR•IPV4•149『线路27』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
