@@ -1,7 +1,7 @@
 
 央视频道,#genre#
 CCTV-4K,http://107.150.60.122/live/cctv4k.m3u8$LR•IPV4•3『线路1』
-CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1776517200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1a81de8ad53aa8135f7604f9791fec0f&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•3『线路2』
+CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1776520800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-4aaa9024fe4943d97f34bdc79e33d67a&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•3『线路2』
 CCTV-4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$LR•IPV4•3『线路3』
 
 浙江频道,#genre#
@@ -1016,9 +1016,9 @@ UK,https://ntd02.akamaized.net/NTD-UK/index.m3u8$LR•IPV4•51『线路48』
 UK,https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8$LR•IPV4•51『线路49』
 UK,https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8$LR•IPV4•51『线路50』
 UK,https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8$LR•IPV4•51『线路51』
-US,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8$LR•IPV4•145『线路1』
-US,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8$LR•IPV4•145『线路2』
-US,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8$LR•IPV4•145『线路3』
+US,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8$LR•IPV4•145『线路1』
+US,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8$LR•IPV4•145『线路2』
+US,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8$LR•IPV4•145『线路3』
 US,http://php.jdshipin.com/TVOD/iptv.php?id=j2$LR•IPV4•145『线路4』
 US,http://php.jdshipin.com/PLTV/iptv.php?id=j2$LR•IPV4•145『线路5』
 US,http://cdn.132.us.kg/live/tvbp/stream.m3u8$LR•IPV4•145『线路6』
@@ -2053,7 +2053,7 @@ XXXXXXXXX粤,http://lxajh.top/tv/douyu.php?id=8912325$LR•IPV4
 航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8$LR•IPV4
 地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8$LR•IPV4
 纪录,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?$LR•IPV6•117『线路1』
-纪录,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a1ef099951da3c6275c6332d67a5fc95$LR•IPV4•117『线路2』
+纪录,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=67d081e1b9bcf4605bfd9e5e3cf401fa$LR•IPV4•117『线路2』
 纪录,http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1752629214236$LR•IPV4•117『线路3』
 纪录,http://free.cnlive.club/channel/2ae73b1a/index.m3u8?q=1752629214236$LR•IPV4•117『线路4』
 纪录,http://free.cnlive.club/channel/nb957a7c/index.m3u8?q=1752629214236$LR•IPV4•117『线路5』
@@ -2597,7 +2597,7 @@ CCTV,https://event.pull.hebtv.com/jishi/cp1.m3u8$LR•IPV4•149『线路25』
 CCTV,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$LR•IPV4•149『线路26』
 CCTV,https://event.pull.hebtv.com/jishi/cp2.m3u8$LR•IPV4•149『线路27』
 CCTV,http://113.25.252.226:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•149『线路28』
-CCTV,https://piccpndks.v.kcdnvip.com/audio/cctv6_2/index.m3u8$LR•IPV4•149『线路29』
+CCTV,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1776520800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d570781b2e25533112fc43fc89a49acc&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•149『线路29』
 CCTV,http://183.196.25.171:808/hls/77/index.m3u8$LR•IPV4•149『线路30』
 CCTV,http://183.196.25.171:808/hls/11/index.m3u8$LR•IPV4•149『线路31』
 CCTV,https://piccpndks.v.kcdnvip.com/audio/cctv16_2/index.m3u8$LR•IPV4•149『线路32』
