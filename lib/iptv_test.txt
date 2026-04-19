@@ -1,6 +1,6 @@
 
 央视频道,#genre#
-CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1776679200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-79cd00f4bb7db0cd0e9bc5599c365c15&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•3『线路1』
+CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1776685500-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-6d20f24bc699cdcb8aca08743f58077d&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•3『线路1』
 CCTV-4K,http://107.150.60.122/live/cctv4k.m3u8$LR•IPV4•3『线路2』
 CCTV-4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$LR•IPV4•3『线路3』
 
@@ -2056,7 +2056,7 @@ XXXXXXXXX粤,http://lxajh.top/tv/douyu.php?id=8912325$LR•IPV4
 航拍中国第一季,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8$LR•IPV4
 航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8$LR•IPV4
 地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8$LR•IPV4
-纪录,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3b0e6e956ecc99677917cb1ec501ddeb$LR•IPV4•118『线路1』
+纪录,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c33aa500f5dcf4769c3da3ff8d755514$LR•IPV4•118『线路1』
 纪录,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?$LR•IPV6•118『线路2』
 纪录,http://113.25.252.226:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•118『线路3』
 纪录,http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1752629214236$LR•IPV4•118『线路4』
@@ -2575,10 +2575,10 @@ Loupe 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4726&tk=f6cc1e0a0e1a$LR•IP
 🌐央视频道,#genre#
 CCTV兵器,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub$LR•IPV4•2『线路1』
 CCTV兵器,http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub$LR•IPV4•2『线路2』
-CCTV,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1776679200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b6f7cd0dd0d183932f5a18f87999dc26&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•154『线路1』
-CCTV,http://183.196.25.171:808/hls/77/index.m3u8$LR•IPV4•154『线路2』
-CCTV,http://183.196.25.171:808/hls/11/index.m3u8$LR•IPV4•154『线路3』
-CCTV,https://piccpndks.v.kcdnvip.com/audio/cctv16_2/index.m3u8$LR•IPV4•154『线路4』
+CCTV,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1776685500-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2d7a0a96580da30f2fddff8a6750e67d&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•154『线路1』
+CCTV,https://piccpndks.v.kcdnvip.com/audio/cctv6_2/index.m3u8$LR•IPV4•154『线路2』
+CCTV,http://183.196.25.171:808/hls/77/index.m3u8$LR•IPV4•154『线路3』
+CCTV,http://183.196.25.171:808/hls/11/index.m3u8$LR•IPV4•154『线路4』
 CCTV,http://183.196.25.171:808/hls/93/index.m3u8$LR•IPV4•154『线路5』
 CCTV,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1776582000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3d3c1eb37336de68ed4f866a18a5e7d1&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•154『线路6』
 CCTV,https://piccpndks.v.kcdnvip.com/audio/cctv15_2/index.m3u8$LR•IPV4•154『线路7』
