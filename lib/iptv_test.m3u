@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1777028400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0138236ab4ab692e799408a540a1310b&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•4『线路1』
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1777032000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-e01514258f23b24c57e3eba1b0db7b92&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•4『线路2』
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1777035600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-80ce8ee4094e321876cbc384d0e13c46&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•4『线路2』
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
 http://107.150.60.122/live/cctv4k.m3u8$LR•IPV4•4『线路3』
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
@@ -968,9 +968,9 @@ http://live.daningtv.com/aac_dngb/playlist.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="长白山电视台" group-title="☘️吉林频道",长白山电视台
 http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild$LR•IPV4
 #EXTINF:-1 tvg-name="云南都市" group-title="☘️云南频道",云南都市
-http://39.130.202.81:6610/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8$LR•IPV4•2『线路1』
+https://hwapi.yntv.net/62hdvf/rjwt14.m3u8$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="云南都市" group-title="☘️云南频道",云南都市
-https://hwapi.yntv.net/62hdvf/rjwt14.m3u8$LR•IPV4•2『线路2』
+http://39.130.202.81:6610/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8$LR•IPV4•2『线路2』
 #EXTINF:-1 tvg-name="云南娱乐" group-title="☘️云南频道",云南娱乐
 https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="Now华剧" group-title="🌊港·澳·台",Now华剧
@@ -4098,7 +4098,7 @@ https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/liv
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
 https://0472.org/hls/cgtnd.m3u8$LR•IPV4•121『线路3』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e9d73204a5dc70be50f7965d0714a102$LR•IPV4•121『线路4』
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d6a9b837ef3079de7566bbf0da6dfefe$LR•IPV4•121『线路4』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
 http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1752629214236$LR•IPV4•121『线路5』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
@@ -5446,11 +5446,11 @@ https://live.ottiptv.cc/huya/11342424$LR•IPV4•5『线路1』
 #EXTINF:-1 tvg-name="刘德华" group-title="明星",刘德华
 https://k0ub7yffy10yfz.djvod.ndcimgs.com/upic/2023/07/25/08/BMjAyMzA3MjUwODU3MzRfMzYxMjUyNDA3MV8xMDg4MTUzNTczMzFfMF8z_b_Bf67605afd92859a39e607f504f43c9f7.mp4$LR•IPV4•5『线路2』
 #EXTINF:-1 tvg-name="刘德华" group-title="明星",刘德华
-http://epg.112114.xyz/douyu/2516864$LR•IPV4•5『线路3』
+http://cdn.jdshipin.com:8880/huya.php?id=11342424$LR•IPV4•5『线路3』
 #EXTINF:-1 tvg-name="刘德华" group-title="明星",刘德华
-http://cdn.jdshipin.com:8880/huya.php?id=11342424$LR•IPV4•5『线路4』
+http://live.metshop.top/huya/11342424?cdn=alicdn$LR•IPV4•5『线路4』
 #EXTINF:-1 tvg-name="刘德华" group-title="明星",刘德华
-http://live.metshop.top/huya/11342424?cdn=alicdn$LR•IPV4•5『线路5』
+http://epg.112114.xyz/douyu/2516864$LR•IPV4•5『线路5』
 #EXTINF:-1 tvg-name="成龙" group-title="明星",成龙
 https://live.ottiptv.cc/huya/11342386$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="成龙" group-title="明星",成龙
@@ -5470,9 +5470,9 @@ http://zzy789.xyz/douyu1.php?id=7356023$LR•IPV4•4『线路1』
 #EXTINF:-1 tvg-name="林正英" group-title="明星",林正英
 https://live.ottiptv.cc/huya/11342421$LR•IPV4•4『线路2』
 #EXTINF:-1 tvg-name="林正英" group-title="明星",林正英
-http://epg.112114.xyz/douyu/218859$LR•IPV4•4『线路3』
+http://cdn.jdshipin.com:8880/huya.php?id=11342421$LR•IPV4•4『线路3』
 #EXTINF:-1 tvg-name="林正英" group-title="明星",林正英
-http://cdn.jdshipin.com:8880/huya.php?id=11342421$LR•IPV4•4『线路4』
+http://epg.112114.xyz/douyu/218859$LR•IPV4•4『线路4』
 #EXTINF:-1 tvg-name="甄子丹" group-title="明星",甄子丹
 https://live.ottiptv.cc/huya/11352935$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="甄子丹" group-title="明星",甄子丹
